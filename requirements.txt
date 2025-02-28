@@ -1,0 +1,11 @@
+streamlit
+streamlit_webrtc
+keras
+notebook
+ipykernel
+ipython
+Markdown
+pillow
+opencv-python
+opencv-contrib-python
+tensorflow
